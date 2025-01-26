@@ -2,7 +2,7 @@
 
 A record of the January trading hackathon, which required participants to create the best performing Python trading strategy!
 
-## 🥇 1st Place: Abdul
+##🥇 1st Place: Abdul
 
 Abdul created a sentiment analysis-based trading strategy that analyzed financial news to determine market sentiment and make trading decisions. His approach included:
 
