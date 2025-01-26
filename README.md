@@ -13,7 +13,7 @@ Pulled real-time financial news data using the yfinance API.
 ### Sentiment Analysis:
 
 Leveraged Natural Language Processing (NLP) to classify news articles as positive, neutral, or negative using pre-trained .keras and .h5 models.
-Incorporated libraries such as TextBlob or NLTK to preprocess and analyze the sentiment of financial articles.
+Incorporated libraries to preprocess and analyze the sentiment of financial articles.
 
 ### Trading Logic:
 
