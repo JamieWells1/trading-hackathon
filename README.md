@@ -2,7 +2,7 @@
 
 A record of the January trading hackathon, which required participants to create the best performing Python trading strategy!
 
-## 🥇 1st Place: Abdul
+## 🥇 1st Place: [Abdul](https://www.linkedin.com/in/abdul-rahman-chamma)
 
 Abdul created a sentiment analysis-based trading strategy that analyzed financial news to determine market sentiment and make trading decisions. His approach included:
 
@@ -40,9 +40,9 @@ Tobi’s strategy demonstrated a well-thought-out blend of quantitative techniqu
 
 ---
 
-## 🥉 3rd Place: Kobichukwura
+## 🥉 3rd Place: [Kobichukwura](https://www.linkedin.com/in/kobichukwura-mbonu-645036333/)
 
-Kobichukwura, a non-technical participant, submitted a PowerPoint presentation outlining a conceptual strategy. His submission included:
+Kobichukwura, a non-technical participant, submitted a PowerPoint presentation outlining a conceptual strategy. Her submission included:
 
 ### Entry criteria:
 - Buy when stock prices drop by more than 5%.
@@ -52,7 +52,7 @@ Kobichukwura, a non-technical participant, submitted a PowerPoint presentation o
 - Sell if stock prices drop by 5% after purchase.
 - Implement the **golden cross** (shorter-term moving average crossing above a longer-term moving average) as a buy signal and the **death cross** (shorter-term moving average crossing below a longer-term moving average) as a sell signal.
 
-Despite not submitting code, Kobichukwura demonstrated exceptional effort by providing a detailed, well-reasoned strategy. His focus on combining multiple indicators showed a clear understanding of trading principles and creativity in presenting ideas.
+Despite not submitting code, Kobichukwura demonstrated exceptional effort by providing a detailed, well-reasoned strategy. Her focus on combining multiple indicators showed a clear understanding of trading principles and creativity in presenting ideas.
 
 ---
 
