@@ -26,7 +26,7 @@ Abdul’s submission stood out for its innovative use of NLP in a trading contex
 
 ---
 
-## 🥈 2nd Place: Tobi
+## 🥈 2nd Place: (Tobi)[https://www.linkedin.com/in/oluwatobi-s/]
 
 Tobi developed an effective momentum reversion hybrid strategy that utilized a combination of moving averages and mean reversion principles. His approach included:
 
