@@ -6,22 +6,23 @@ A record of the January trading hackathon, which required participants to create
 
 Abdul created a sentiment analysis-based trading strategy that analyzed financial news to determine market sentiment and make trading decisions. His approach included:
 
-###News Data Integration:
+### News Data Integration:
 
 Pulled real-time financial news data using the yfinance API.
 
-###Sentiment Analysis:
+### Sentiment Analysis:
 
 Leveraged Natural Language Processing (NLP) to classify news articles as positive, neutral, or negative using pre-trained .keras and .h5 models.
 Incorporated libraries such as TextBlob or NLTK to preprocess and analyze the sentiment of financial articles.
 
-###Trading Logic:
+### Trading Logic:
 
 Generated buy/sell signals based on the aggregated sentiment score:
-    - Positive Sentiment: Triggered buy signals.
-    - Negative Sentiment: Triggered sell signals.
+
+- Positive Sentiment: Triggered buy signals.
+- Negative Sentiment: Triggered sell signals.
     
-###Backtesting:
+### Backtesting:
 
 Evaluated the strategy's performance against historical market data to fine-tune the sentiment thresholds and improve accuracy.
 
